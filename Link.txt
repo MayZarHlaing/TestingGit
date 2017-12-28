@@ -1,0 +1,5 @@
+https://www.accountingformanagement.org/explanation/accounting-cycle/
+
+LINQ Query =>https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations
+
+http://dotnetpatthttps://programmingwithmosh.com/csharp/ienumerable-and-ienumerator/ern.com/linq-basics
